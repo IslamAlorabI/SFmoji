@@ -1,6 +1,6 @@
 [![Banner](/assets/)](https://github.com/IslamAlOrabI/SFmoji)
 
-**An Magisk Module Based On Apple SFPro**
+**Magisk Module Based On Apple SFPro**
 
 **& SFArabic Fonts with Emoji from iOS 16.4**
 
