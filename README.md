@@ -1,4 +1,4 @@
-[![Banner](/assets/)](https://github.com/IslamAlOrabI/SFmojiBanner-1.0.jpg)
+[![Banner](/assets/)](https://github.com/IslamAlOrabI/SFmojiBanner-v1.0.jpg)
 
 **Magisk Module Based On Apple SFPro**
 
